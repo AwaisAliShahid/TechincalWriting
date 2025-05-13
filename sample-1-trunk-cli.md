@@ -1,27 +1,3 @@
-# Technical Writing Samples – Alina Shahid
-
-This repo contains three technical writing samples tailored for DevRel Engineering roles, particularly aligned with improving Developer Experience (DevEx) and developer tooling.
-
-## 📘 Sample 1: Unifying Code Quality with Trunk CLI
-[View Full Sample](#sample-1-unifying-code-quality-with-trunk-cli)
-
-## 🔍 Sample 2: The Hidden Cost of Flaky Tests
-[View Full Sample](#sample-2-the-hidden-cost-of-flaky-tests)
-
-## 🚀 Sample 3: Improving Developer Onboarding with Pre-Commit Hooks
-[View Full Sample](#sample-3-improving-developer-onboarding-with-pre-commit-hooks)
-
----
-
-# DevRel Writing Samples – Alina Shahid _(expanded edition)_
-
-These three pieces are written exactly as I would publish them on a DevEx blog or docs site.
-They include runnable code, CI snippets, and placeholders for screenshots/GIFs you can drop
-in later.
-
-> **Repo with full examples:** <https://github.com/alina-samples/trunk-demos>
-
----
 
 ## Sample 1: Unifying Code Quality with Trunk CLI
 
