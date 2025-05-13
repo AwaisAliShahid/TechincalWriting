@@ -1,6 +1,6 @@
 # TechincalWriting
 
-# DevRel Writing Samples – Alina Shahid
+# DevRel Writing Samples – Awais Ali Shahid
 
 ---
 
