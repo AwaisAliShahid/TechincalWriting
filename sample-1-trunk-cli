@@ -1,0 +1,7 @@
+# Sample 1: Unifying Code Quality with Trunk CLI
+
+With five commands and ~8 minutes of work, you can turn an un-linted repo into a CI-gated, pre-commit-protected, fully cached code-quality pipeline.
+
+...
+
+(Full Sample 1 content here — replace with full expanded content from earlier)
