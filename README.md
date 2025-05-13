@@ -23,7 +23,7 @@ in later.
 
 ---
 
-## 1 Unifying Code Quality with Trunk CLI
+## Sample 1: Unifying Code Quality with Trunk CLI
 
 ### TL;DR
 With five commands and **~8 minutes of work**, you can turn an un‑linted repo into a
@@ -143,7 +143,11 @@ Average wall‑clock time (internal project, 34 files):
 Trunk lets you **codify code quality** once, then forget about it. Every dev—and every
 workflow run—gets the same vetted toolchain in seconds.
 
+
+
 ---
+
+## Sample 2: The Hidden Cost of Flaky Tests
 
 ## 2 The Hidden Cost of Flaky Tests … and How to Fight Back
 
@@ -245,7 +249,7 @@ get the time back in real product delivery.
 
 ---
 
-## 3 Onboarding Developers in **1 Commit** with Trunk Hooks
+## Sample 3: Improving Developer Onboarding with Pre-Commit Hooks
 
 ### Day‑0 story (real onboarding log)
 | Minute | Without Trunk | With Trunk |
@@ -322,6 +326,13 @@ Dev runs `trunk fix` → console statement removed → commit passes.
 ### Outcome
 New hires experience a paved road, not a muddy path—shipping code on day one without
 anyone babysitting their setup.
+
+---
+
+## Questions?
+
+Feel free to open an issue in the demo repo or reach out on Trunk Community Slack (`@alina-s`).
+
 
 ---
 
