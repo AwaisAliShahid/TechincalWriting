@@ -230,11 +230,6 @@ notifications:
 * **OWASP Cheat Sheet:** _Pre-Commit Security Scanning_  
 
 ---
-
-### Questions?
-
-Open an issue in the [demo repo](https://github.com/alina-samples/trunk-demos) or ping me on Trunk Community Slack (`@alina-s`).
-
 ---
 
 ### TL;DR 💡
