@@ -1,6 +1,5 @@
 ## Sample 2: The Hidden Cost of Flaky Tests
 
-### 2 The Hidden Cost of Flaky Tests … and How to Fight Back
 
 
 ---
