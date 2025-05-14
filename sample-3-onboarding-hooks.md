@@ -230,7 +230,6 @@ notifications:
 * **OWASP Cheat Sheet:** _Pre-Commit Security Scanning_  
 
 ---
----
 
 ### TL;DR 💡
 
