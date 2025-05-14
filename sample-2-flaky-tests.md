@@ -13,7 +13,7 @@
 4. [Root-cause analysis](#4-root-cause-analysis)  
 5. [Fixing the race condition](#5-fixing-the-race-condition)  
 6. [Quarantining & gating with Trunk](#6-quarantining--gating-with-trunk)  
-7. [Measuring the impact](#7-measuring-the-before-and-after-impact)  
+7. [Measuring the impact](#7-measuring-the-impact)  
 8. [A sustainable anti-flake checklist](#8-a-sustainable-anti-flake-checklist)  
 9. [Lessons learned & next steps](#9-lessons-learned--next-steps)  
 10. [Appendix A – reference pipeline YAML](#10-appendix-a--reference-pipeline-yaml)  
