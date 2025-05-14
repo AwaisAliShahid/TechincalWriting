@@ -17,7 +17,7 @@
 8. [A sustainable anti-flake checklist](#8-a-sustainable-anti-flake-checklist)  
 9. [Lessons learned & next steps](#9-lessons-learned--next-steps)  
 10. [Appendix A – reference pipeline YAML](#10-appendix-a--reference-pipeline-yaml)  
-11. [Appendix B – suggested reading](#appendix-b--suggested-reading)
+11. [Appendix B – suggested reading](#11-appendix-b--suggested-reading)
 
 ---
 
