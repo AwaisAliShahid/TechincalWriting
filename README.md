@@ -1,4 +1,4 @@
-# Technical Writing Samples – Alina Shahid
+# Technical Writing Samples – Awais Ali Shahid
 
 This repo contains three technical writing samples tailored for DevRel Engineering roles, particularly aligned with improving Developer Experience (DevEx) and developer tooling.
 
