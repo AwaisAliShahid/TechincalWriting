@@ -2,7 +2,6 @@
 
 ### 2 The Hidden Cost of Flaky Tests … and How to Fight Back
 
-> **Demo repo:** [`tests/flaky-login`](https://github.com/alina-samples/trunk-demos/tree/tests/flaky-login)
 
 ---
 
